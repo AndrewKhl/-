@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.806,D:\Лабораторные ОАИП 2 семестр\LabWork7\Project2.cbproj=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,D:\Лабораторные ОАИП 2 семестр\LabWork7\Unit2.dfm=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,D:\Лабораторные ОАИП 2 семестр\LabWork7\Unit2.h=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,D:\Лабораторные ОАИП 2 семестр\LabWork7\Heash.h=D:\Лабораторные ОАИП 2 семестр\LabWork7\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,=D:\Лабораторные ОАИП 2 семестр\LabWork7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,D:\Лабораторные ОАИП 2 семестр\LabWork7\Heash.cpp=D:\Лабораторные ОАИП 2 семестр\LabWork7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,D:\Лабораторные ОАИП 2 семестр\LabWork7\Unit2.cpp=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,D:\Лабораторные ОАИП 2 семестр\LabWork7\Project2PCH1.h=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
